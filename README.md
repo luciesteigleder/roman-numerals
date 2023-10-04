@@ -32,6 +32,4 @@ There is no online server for this project. The file can be run via node, and th
 ## Quick fixes
 
 1. Activate the function that prompts the user to type the number itself.
-2. Maybe add a frontend for a better user interface?
-
-Let me know if you have any further questions or if there's anything else I can assist you with!
+2. Maybe add a frontend for a user interface?
